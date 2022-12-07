@@ -1,6 +1,6 @@
 import random
 bekertszam = 1
-
+proba = "próba"
 
 def beker_szam():
     global bekertszam
