@@ -1,8 +1,9 @@
-import progalap
+import alap
 
-progalap.beker_szam()
-"""progalap.nevkiiras()
-progalap.beker_harombetus_szo()
-progalap.veletlenszam()
-progalap.lista_abc()"""
-progalap.veletlenlistaban()
+alap.fel()
+alap.fel2()
+alap.fel3()
+alap.otdbveletlen()
+alap.osztas()
+alap.tizenharom()
+alap.nagyobbtiznel()
